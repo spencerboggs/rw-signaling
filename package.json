@@ -1,0 +1,31 @@
+{
+  "name": "rw-signaling",
+  "version": "1.0.0",
+  "description": "A simple signaling service using Vercel, for a subpage of my website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerboggs/rw-signaling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/spencerboggs/rw-signaling/issues"
+  },
+  "homepage": "https://github.com/spencerboggs/rw-signaling#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ws": "^8.21.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.3",
+    "@types/ws": "^8.18.1",
+    "typescript": "^7.0.2"
+  }
+}
