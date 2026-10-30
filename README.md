@@ -1,6 +1,6 @@
 # rw-signaling
 
-WebSocket meeting place for the online raid wheel. Wheel data goes peer to peer after the connection is up. This server only creates rooms and passes WebRTC offers, answers, and ICE candidates.
+WebSocket meeting place for online features on static GihHub pages sites. Wheel data goes peer to peer after the connection is up. This server only creates rooms and passes WebRTC offers, answers, and ICE candidates.
 
 Connect to `wss://<deployment>/api/ws`.
 
